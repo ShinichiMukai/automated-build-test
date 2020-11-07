@@ -1,2 +1,2 @@
-FROM dockersample/static-site
+FROM nginx
 ENV AUTHOR="Shinichi Mukai"
